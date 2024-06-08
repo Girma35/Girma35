@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer with a strong focus on Python. With [X] years of experience, I have a deep understanding of Python and its ecosystem, and I am always excited to take on new challenges and build innovative solutions.
+I am a passionate software developer with a strong focus on Python. With 1 year of experience as a freelancer, I have a deep understanding of Python and its ecosystem, and I am always excited to take on new challenges and build innovative solutions.
 
 - 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m looking to collaborate on interesting open-source Django projects.
