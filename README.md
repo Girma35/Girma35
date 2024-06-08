@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girma35
+- 👋 Hi, I’m Girma W.
 - 👀 I’m interested in building something exciting and useful.
 - 🌱 I’m currently learning Python to enhance my programming skills and create innovative projects.
 - 💞️ I’m looking to collaborate on Python-based projects or anything related to software development.
