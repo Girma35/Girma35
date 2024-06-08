@@ -5,7 +5,4 @@
 - 📫 How to reach me: Feel free to contact me via email at "Girmawakeyo4@gmail.com".
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love exploring nature trails and capturing beautiful landscapes through photography.
-<!---
-Girma35/Girma35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
