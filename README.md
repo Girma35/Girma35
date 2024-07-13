@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer with a strong focus on Python. With 1 year of experience as a freelancer, I have a deep understanding of Python and its ecosystem, and I am always excited to take on new challenges and build innovative solutions.
+I am a passionate software developer with a strong focus on MERN stack development. With 1 year of experience as a freelancer, I have a deep understanding of MongoDB, Express.js, React, and Node.js, and I am always excited to take on new challenges and build innovative solutions.
 
-- 🌱 I’m currently learning Flutter and Dart.
-- 👯 I’m looking to collaborate on interesting open-source Django projects.
-- 💬 Ask me about Python, Django, Flask, Data Science, or anything related to software development.
+- 🌱 I’m currently learning React and React Native.
+- 👯 I’m looking to collaborate on interesting open-source MERN stack projects.
+- 💬 Ask me about JavaScript, React, Node.js, MongoDB, or anything related to software development.
 - 📫 How to reach me: girmawakeyo4@gmail.com.
 - 😄 Pronouns: he.
 - ⚡ Fun fact: I am a biker.
@@ -16,15 +16,15 @@ I am a passionate software developer with a strong focus on Python. With 1 year 
 ## 🛠️ Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks and Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
