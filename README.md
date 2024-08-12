@@ -6,7 +6,7 @@
 
 I am a passionate software developer with a strong focus on MERN stack development. With 1 year of experience as a freelancer, I have a deep understanding of MongoDB, Express.js, React, and Node.js, and I am always excited to take on new challenges and build innovative solutions.
 
-- 🌱 I’m currently learning React and React Native.
+- 🌱 I’m currently working React and React Native.
 - 👯 I’m looking to collaborate on interesting open-source MERN stack projects.
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB, or anything related to software development.
 - 📫 How to reach me: girmawakeyo4@gmail.com.
@@ -34,19 +34,20 @@ I am a passionate software developer with a strong focus on MERN stack developme
 
 ## 🔥 My Stats
 
-[![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Girma35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Girma35&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Girma35&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girma-w-a16429263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Girma880731631)
