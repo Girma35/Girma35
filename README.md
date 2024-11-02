@@ -1,6 +1,3 @@
-
----
-
 # Hello, I'm GIRMA WAKEYO! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/Girma35?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Girma880731631?style=social)
@@ -55,3 +52,10 @@ I'm a dedicated **Front-End Developer** with a focus on creating engaging and hi
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girmawakeyo4@gmail.com)
 
 ---
+
+## 🕹️ Chrome Dino Game
+
+You can play the classic Chrome Dinosaur Game right here! Click the link below to play:
+
+**[Play the Dino Game Online](https://chromedino.com/)**
+
