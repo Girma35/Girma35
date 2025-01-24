@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-I'm a dedicated **Front-End Developer** with a focus on creating engaging and high-performance web applications using **React, Next.js, and Tailwind CSS**. With strong fundamentals in **Node.js, Express, Prisma,** and **Serverless** architecture, I have a well-rounded understanding of both front-end and back-end technologies, which helps me build end-to-end solutions.
-
 - 🌱 **Currently exploring:** Advanced React patterns and Next.js 15.
 - 👯 **Looking to collaborate on:** Open-source projects in both front-end and full-stack development.
 - 💬 **Ask me about:** Front-end development, JavaScript, React, Next.js, or back-end basics with Node.js.
@@ -52,10 +50,4 @@ I'm a dedicated **Front-End Developer** with a focus on creating engaging and hi
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girmawakeyo4@gmail.com)
 
 ---
-
-## 🕹️ Chrome Dino Game
-
-You can play the classic Chrome Dinosaur Game right here! Click the link below to play:
-
-**[Play the Dino Game Online](https://chromedino.com/)**
 
