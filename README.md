@@ -31,8 +31,10 @@
 
 ## 🔥 GitHub Stats
 
-[![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Girma35&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=radical)](https://github.com/Girma35)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girma35&layout=compact&theme=radical)](https://github.com/Girma35)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Girma35&theme=radical)](https://git.io/streak-stats)
 
 ---
