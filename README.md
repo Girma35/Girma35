@@ -9,7 +9,7 @@
 - 👯 **Collaborate With Me:** Let’s build SaaS tools, open-source projects, or automation scripts!  
 - 💬 **Ask Me About:** Front-end development, React best practices, or Python automation.  
 - 📫 **Connect:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](#) | [GitHub](https://github.com/yourusername)  
-- ⚡ **Fun Fact:** I once coded a Python script to automate my coffee orders ☕!  
+- ⚡ **Fun Fact:** I once spent 3 hours debugging a React app, only to realize I’d misspelled `useState` as `useSatate` 😅.  
 
 ---
 
