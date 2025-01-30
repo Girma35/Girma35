@@ -8,7 +8,7 @@
 - 🌱 **Learning:** Advanced cloud architectures (AWS, Docker) and system design principles.  
 - 👯 **Collaborate With Me:** Let’s build SaaS tools, open-source projects, or automation scripts!  
 - 💬 **Ask Me About:** Front-end development, React best practices, or Python automation.  
-- 📫 **Connect:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](#) | [GitHub](https://github.com/yourusername)  
+- 📫 **Connect:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/girma35) | [GitHub](https://github.com/Girma35)
 - ⚡ **Fun Fact:** I once spent 3 hours debugging a React app, only to realize I’d misspelled `useState` as `useSatate` 😅.  
 
 ---
@@ -59,10 +59,7 @@
 ---
 
 ## 🌐 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://girmish1.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girma-w-a16429263)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girma35)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Girma880731631)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girma35)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://girmish1.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girmawakeyo4@gmail.com)
-
