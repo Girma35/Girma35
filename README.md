@@ -1,4 +1,4 @@
-# Hello, I'm GIRMA WAKEYO! 👋
+[![Girma's Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&width=435&lines=👋+Hi+there!+I'm+Girma;💻+Software+Engineer)](https://girmish1.netlify.app/)
 
 ![GitHub followers](https://img.shields.io/github/followers/Girma35?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Girma880731631?style=social)
 
