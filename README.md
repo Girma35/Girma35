@@ -44,7 +44,7 @@
 
 ## 🔥 Coding Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Girma35&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girma35&theme=dark)](https://git.io/streak-stats)
 
 [![Girma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=dark)](https://github.com/Girma35)
 
