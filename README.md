@@ -44,7 +44,7 @@
 
 ## 🔥 Coding Activity
 
-![Girma's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Girma35&theme=dracula)
+[![Girma's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Girma35&theme=dracula)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Girma35&theme=dark)](https://git.io/streak-stats)
 
