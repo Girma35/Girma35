@@ -12,7 +12,27 @@
 - ⚡ **Fun Fact:** I once spent 3 hours debugging a React app, only to realize I’d misspelled `useState` as `useSatate` 😅.  
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack Architecture
+
+```mermaid
+
+graph LR
+ A1[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='20'/> React] 
+  A2[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width='20'/> Next.js] 
+  A3[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg' width='20'/> Svelte]  -->|REST API / WebSocket| B[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='20'/> Express.js]
+  B -->|Mongoose ODM| C[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width='20'/> MongoDB]
+  A -->|Auth / Realtime| D[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg' width='20'/> Supabase]
+  D -->|PostgreSQL| E[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' width='20'/> Postgres DB]
+
+  classDef box fill:#2d3748,stroke:#718096,stroke-width:2px,color:white,font-size:12px;
+  classDef arrow fill:none,stroke:#63b3ed,stroke-width:2px;
+  class A,B,C,D,E box;
+  class arrowLinks arrow;
+
+  linkStyle 0,1,2,3 stroke:#63b3ed,stroke-width:2px;
+
+```
+  
 
 ### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
