@@ -63,8 +63,6 @@ graph LR
 
 ## 🔥 Coding Activity
 
-![Girma's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Girma35&theme=dracula)
-
 
 [![Girma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=dark)](https://github.com/Girma35)
 
