@@ -2,17 +2,17 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Girma35?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Girma880731631?style=social)
 
-## 🚀 About Me  
+##  About Me  
 
-- 🔭 **Currently Exploring:** Full-stack development (Next.js, React, Svelte, TypeScript), backend (Node.js, Express.js, Django), & AI/ML integrations.  
-- 🌱 **Learning:** Advanced cloud architectures (AWS, Docker) and system design principles.  
-- 👯 **Collaborate With Me:** Let’s build SaaS tools, open-source projects, backend APIs, or automation scripts!  
-- 💬 **Ask Me About:** Front-end and backend development, React, Svelte best practices, or Python automation.  
-- 📫 **Connect:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/girma35) | [GitHub](https://github.com/Girma35)  
-- ⚡ **Fun Fact:** I once spent 3 hours debugging a React app, only to realize I’d misspelled `useState` as `useSatate` 😅.  
+-  **Currently Exploring:** Full-stack development (Next.js, React, Svelte, TypeScript), backend (Node.js, Express.js, Django), & AI/ML integrations.  
+- **Learning:** Advanced cloud architectures (AWS, Docker) and system design principles.  
+- **Collaborate With Me:** Let’s build SaaS tools, open-source projects, backend APIs, or automation scripts!  
+-  **Ask Me About:** Front-end and backend development, React, Svelte best practices, or Python automation.  
+-  **Connect:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/girma35) | [GitHub](https://github.com/Girma35)  
+- **Fun Fact:** I once spent 3 hours debugging a React app, only to realize I’d misspelled `useState` as `useSatate` 😅.  
 ---
 
-## 🚀 Tech Stack Architecture
+## My Tech Stack Architecture
 
 ```mermaid
 
@@ -61,7 +61,7 @@ graph LR
 ---
 
 
-## 🔥 Coding Activity
+##  Coding Activity
 
 
 [![Girma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=dark)](https://github.com/Girma35)
