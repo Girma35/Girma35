@@ -2,13 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=600&lines=👋+Hey%2C+I'm+Girma+Wakeyo!;Full-Stack+Engineer+;%7C+Gen+AI+%7C+Automation+%7C+Software+Engineering;Building+next-gen+AI-powered+apps+and;+scalable+systems)](https://girmish1.netlify.app/)
 
 ![GitHub followers](https://img.shields.io/github/followers/Girma35?style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/Girma880731631?style=social)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Girma880731631)
+
 
 ---
 
 ## 🧠 About Me  
-
-I'm **Girma Wakeyo**, a passionate **Software Engineer** exploring the intersection of **Full-Stack Development**, **Generative AI**, and **Automation Systems**.  
+ a passionate **Software Engineer** exploring the intersection of **Full-Stack Development**, **Generative AI**, and **Automation Systems**.  
 I love building tools that make life easier, systems smarter, and interfaces cleaner.
 
 ### 🚀 What I Do
@@ -16,7 +16,7 @@ I love building tools that make life easier, systems smarter, and interfaces cle
 - ☁️ **Learning:** Advanced Cloud Architectures (AWS, Docker, CI/CD, System Design).  
 - 🤝 **Collaborate With Me:** Let's create SaaS tools, AI automation platforms, or open-source projects.  
 - 💬 **Ask Me About:** React, Laravel, AI automation, backend APIs, or Python scripting.  
-- 📫 **Reach Me:** [Email](mailto:girmawakeyo4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/girma35) | [GitHub](https://github.com/Girma35)  
+- 📫 **Reach Me:** [Email](mailto:girmawakeyo4@gmail.com) | [X (Twitter)](https://x.com/Girma880731631) | [GitHub](https://github.com/Girma35)
 - ⚡ **Fun Fact:** I once spent 3 hours debugging `useSatate` instead of `useState` 😅  
 
 ---
@@ -66,7 +66,7 @@ graph LR
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
 
@@ -77,6 +77,7 @@ graph LR
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 ### ☁️ Tools, Cloud & DevOps
 
@@ -109,7 +110,7 @@ graph LR
 ## 🌍 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Girma35)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/girma35)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Girma880731631)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://girmish1.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:girmawakeyo4@gmail.com)
 
