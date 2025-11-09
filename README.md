@@ -23,21 +23,12 @@ I love building tools that make life easier, systems smarter, and interfaces cle
 
 ## 🧩 Work & Achievements  
 
-💡 **Founder** — [Opensox.ai](https://opensox.ai)  
-🧠 **Ex-AI Engineer** @ TurboML  
-🎓 **Google Summer of Code 2025 (Mentor)** — Guided AI Projects:  
-  - AI-Powered Debugger for Music Blocks  
-  - AI Tools for Reflection  
-👨‍💻 **Software Engineer Intern** @ [tryitonai.com](https://tryitonai.com)  
-⚙️ **50+ Contributions** to [Activepieces](https://activepieces.com)  
+⚙️ **20+ Contributions** to [Activepieces](https://activepieces.com)  
 🌐 **Built** an end-to-end **Online Learning SaaS** with:
   - 20,000+ total visits (5K+/mo)  
   - 16,000+ queries processed  
-  - 5,500+ active users  
+  - 5,50 active users  
 🧰 **Created** a production-grade collaboration server from scratch  
-📧 **Implemented** Email-update feature @ [Polar](https://polar.sh)  
-📄 **Fixed** major page-breaking issues @ [Documenso](https://documenso.com)  
-🧬 **AI Idea Accepted** by SugarLabs — AI Code Generation & LLM Abstraction Layer  
 
 ---
 
