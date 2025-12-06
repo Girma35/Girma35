@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=600&lines=👋+Hey%2C+I'm+Girma+Wakeyo!;Full-Stack+Engineer+;%7C+Gen+AI+%7C+Automation+%7C+Software+Engineering;Building+next-gen+AI-powered+apps+and;+scalable+systems)](https://girmish1.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=600&lines=👋+Hey%2C+I'm+Girma+Wakeyo!;Full-Stack+Engineer+;%7C+Gen+AI+%7C+Automation+%7C+Software+Engineering+%7C+DSA+Expert;Building+next-gen+AI-powered+apps+and;+scalable+systems)](https://girma.studio)
 
 ![GitHub followers](https://img.shields.io/github/followers/Girma35?style=social) 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Girma880731631)
