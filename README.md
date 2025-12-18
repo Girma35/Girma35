@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;TypeScript+|+Python+Specialist;Gen+AI+%26+Automation+Expert;Building+Scalable+Architectures" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://girmish1.netlify.app/"><b>Portfolio</b></a> •
+    <a href="https://girma.studio/"><b>Portfolio</b></a> •
     <a href="https://x.com/Girma880731631"><b>Twitter (X)</b></a> •
     <a href="mailto:girmawakeyo4@gmail.com"><b>Contact Me</b></a>
   </p>
