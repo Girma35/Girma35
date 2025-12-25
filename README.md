@@ -44,13 +44,7 @@ I am a **Full-Stack Engineer** focused on building intelligent, type-safe applic
 
 ### 📈 Engineering Impact
 <div align="center">
-  <a href="https://github.com/Girma35" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Girma35&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&hide_border=true&count_private=true"
-      width="80%"
-      alt="Girma35 GitHub Stats"
-    />
-  </a>
+ 
 </div>
 
 ---
