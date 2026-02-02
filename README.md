@@ -1,8 +1,10 @@
 Hi, I'm Girma Wakeyo 👋  
 📍 Ethiopia | 🧠 Systems-minded builder | ⚙️ Event-driven & tooling curious
 
-LANGUAGES / TOOLS  
-TypeScript JavaScript Python Go Node.js React Next.js Redis Event-Driven Systems CLI
+LANGUAGES / TOOLS
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,nodejs,react,nextjs,redis,linux,git" />
+
 
 Deep in builder mode — learning how real systems scale by designing and breaking them.  
 I focus on backend orchestration, developer tooling, and understanding systems from first principles instead of treating frameworks as magic.
