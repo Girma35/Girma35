@@ -11,16 +11,22 @@ I focus on backend orchestration, developer tooling, and understanding systems f
 
 I enjoy projects where theory meets production: workflows, internal tools, and architectures that don’t collapse under real-world failure.
 
+
+You can drop this straight into your markdown:
+
+---
+
+### Current Projects
+
+🧠 **[Better_cursor](https://github.com/Girma35/Better_cursor)** – an AI-assisted coding environment exploring better feedback loops between editors and agents
+
+📦 **[OrderFlow](https://github.com/Girma35/OrderFlow)** – an event-driven order orchestration engine for multi-tenant commerce
+
+📚 **[STEM Ethiopia](https://github.com/Girma35/Stem-Ethiopia)** – an AI-powered adaptive learning platform for Ethiopian STEM students, built with Flutter and Appwrite, featuring personalized learning paths, skill assessments, gamification, and community-driven collaboration
+
 ---
 
 
-Current Projects
-
-🧠 [Better_cursor](https://github.com/Girma35/Better_cursor) – an AI-assisted coding environment exploring better feedback loops between editors and agents
-
-📦 [OrderFlow](https://github.com/Girma35/OrderFlow) – an event-driven order orchestration engine for multi-tenant commerce
-
----
 
 How I Build
 
