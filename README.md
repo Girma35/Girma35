@@ -18,11 +18,15 @@ You can drop this straight into your markdown:
 
 ### Current Projects
 
-🧠 **[Better_cursor](https://github.com/Girma35/Better_cursor)** – an AI-assisted coding environment exploring better feedback loops between editors and agents
+**[Better_cursor](https://github.com/Girma35/Better_cursor)** – an AI-assisted coding environment exploring better feedback loops between editors and agents  
 
-📦 **[OrderFlow](https://github.com/Girma35/OrderFlow)** – an event-driven order orchestration engine for multi-tenant commerce
+**[OrderFlow](https://github.com/Girma35/OrderFlow)** – an event-driven order orchestration engine for multi-tenant commerce  
 
-📚 **[STEM Ethiopia](https://github.com/Girma35/Stem-Ethiopia)** – an AI-powered adaptive learning platform for Ethiopian STEM students, built with Flutter and Appwrite, featuring personalized learning paths, skill assessments, gamification, and community-driven collaboration
+**[STEM Ethiopia](https://github.com/Girma35/Stem-Ethiopia)** – an AI-powered adaptive learning platform for Ethiopian STEM students, built with Flutter and Appwrite, featuring personalized learning paths, skill assessments, gamification, and community-driven collaboration  
+
+**[Clicker](https://github.com/Girma35/clicker)** – a user-driven, AI-enhanced Chrome extension for ethical web scraping, featuring Gemini AI-powered element detection, pattern recognition, table scraping, infinite scroll support, and workflow recording, with live previews and export options in JSON/CSV  
+
+**[PitchCraft](https://github.com/Girma35/pitchcraft)** – an AI-powered outreach tool that scrapes LinkedIn company profiles, stores raw data in Supabase, and generates personalized emails with optional AI analysis  
 
 ---
 
