@@ -14,7 +14,7 @@ LANGUAGES / TOOLS
   <img src="https://img.shields.io/badge/AI_Security-E02424?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Local_LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
----
+
 
 Deep in builder mode — learning how real systems scale by designing and breaking them.  
 I focus on backend orchestration, developer tooling, and understanding systems from first principles instead of treating frameworks as magic.
