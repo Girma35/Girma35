@@ -16,7 +16,7 @@ LANGUAGES / TOOLS
 </p>
 
 
-Deep in builder mode — learning how real systems scale by designing and breaking them.  
+Deep in builder mode  learning how real systems scale by designing and breaking them.  
 I focus on backend orchestration, developer tooling, and understanding systems from first principles instead of treating frameworks as magic.
 
 I enjoy projects where theory meets production: workflows, internal tools, and architectures that don’t collapse under real-world failure.
