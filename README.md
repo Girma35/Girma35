@@ -1,5 +1,5 @@
-Hi, I'm Girma Wakeyo 👋  
-📍 Ethiopia | 🧠 Systems-minded builder | ⚙️ Event-driven & tooling curious
+Hi, I'm Girma    
+📍 Ethiopia 
 
 LANGUAGES / TOOLS
 
