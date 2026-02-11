@@ -3,7 +3,7 @@ Hi, I'm Girma
 
 LANGUAGES / TOOLS
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,nodejs,react,nextjs,postgres,redis,linux,git,fastapi" />
+<img src="https://skillicons.dev/icons?i=ts,python,go,nextjs,postgres,redis,linux,git,fastapi" />
 
 ### AI Engineering & Orchestration
 <p align="left">
