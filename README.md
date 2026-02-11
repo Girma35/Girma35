@@ -27,7 +27,7 @@ You can drop this straight into your markdown:
 **[Clicker](https://github.com/Girma35/clicker)** – a user-driven, AI-enhanced Chrome extension for ethical web scraping, featuring Gemini AI-powered element detection, pattern recognition, table scraping, infinite scroll support, and workflow recording, with live previews and export options in JSON/CSV  
 
 **[PitchCraft](https://github.com/Girma35/pitchcraft)** – an AI-powered outreach tool that scrapes LinkedIn company profiles, stores raw data in Supabase, and generates personalized emails with optional AI analysis  
-
+**[Sorafree watermark remover](https://github.com/Girma35/sora2-free-watermark-remover)** – A specialized extraction framework engineered to detect and eliminate embedded watermarks from OpenAI's Sora 2 AI-generated video content. Utilizing frequency domain analysis and pattern recognition, this tool achieves clinical removal without degrading visual fidelity.
 ---
 
 
