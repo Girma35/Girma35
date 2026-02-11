@@ -1,5 +1,5 @@
 Hi, I'm Girma  
-📍 Ethiopia 
+📍 Ethiopia | **Software Engineer @ Revvity Signals**
 
 LANGUAGES / TOOLS
 
