@@ -1,18 +1,25 @@
-Hi, I'm Girma    
+Hi, I'm Girma  
 📍 Ethiopia 
 
 LANGUAGES / TOOLS
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,nodejs,react,nextjs,redis,linux,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,nodejs,react,nextjs,postgres,redis,linux,git,fastapi" />
 
+### AI Engineering & Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-00ADEE?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-FF6C37?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Security-E02424?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+---
 
 Deep in builder mode — learning how real systems scale by designing and breaking them.  
 I focus on backend orchestration, developer tooling, and understanding systems from first principles instead of treating frameworks as magic.
 
 I enjoy projects where theory meets production: workflows, internal tools, and architectures that don’t collapse under real-world failure.
-
-
-You can drop this straight into your markdown:
 
 ---
 
@@ -32,48 +39,46 @@ You can drop this straight into your markdown:
 
 ---
 
+### How I Build
 
-
-How I Build
-
-I prefer asynchronous over synchronous  
-Events over fragile API chains  
-Failure as a first-class design input  
-Observability before optimization  
-Documentation as part of the system
+- **Safety-First AI:** Guardrails and validation layers before LLM execution  
+- **Asynchronous over Synchronous:** Events over fragile API chains  
+- **Failure as a first-class design input:** Designing for agent hallucinations  
+- **Observability before optimization:** Tracking token usage and agent traces  
+- **Documentation as part of the system**
 
 ---
 
-What I'm Doing Now
+### What I'm Doing Now
 
-Designing scalable backend workflows  
-Studying distributed systems by building them  
-Creating tools I personally want to use  
-Reading architecture docs more than tutorials  
-Learning when *not* to add complexity
-
----
-
-Interests
-
-Distributed systems  
-Event orchestration  
-Backend architecture  
-Developer experience (DX)  
-AI as infrastructure, not hype  
-Understanding how editors, CLIs, and backends really work
+- Designing **Secure AI Database Agents** with restricted tool access  
+- Studying distributed systems by building them  
+- Creating tools I personally want to use  
+- Reading architecture docs more than tutorials  
+- Learning when *not* to add complexity
 
 ---
 
-Philosophy
+### Interests
+
+- Distributed systems  
+- AI Agent Orchestration  
+- Backend architecture & pgvector  
+- Developer experience (DX)  
+- AI as infrastructure, not hype  
+- Understanding how editors, CLIs, and backends really work
+
+---
+
+### Philosophy
 
 "Make the system observable, or it doesn’t really exist."
 
 ---
 
-Random Facts
+### Random Facts
 
-Prefers logs over dashboards  
-Enjoys tracing bugs across services  
-Believes simplicity is usually discovered late  
-Builds to understand, not to impress
+- Prefers logs over dashboards  
+- Enjoys tracing bugs across services  
+- Believes simplicity is usually discovered late  
+- Builds to understand, not to impress
