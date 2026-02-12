@@ -24,8 +24,7 @@ I enjoy projects where theory meets production: workflows, internal tools, and a
 ---
 
 ### Current Projects
-
-**[Better_cursor](https://github.com/Girma35/Better_cursor)** – an AI-assisted coding environment exploring better feedback loops between editors and agents  
+**[Luma](https://github.com/Girma35/luma)** -A RAG-powered agent using LangGraph, FastAPI, and AWS Bedrock (Llama 3.2).
 
 **[OrderFlow](https://github.com/Girma35/OrderFlow)** – an event-driven order orchestration engine for multi-tenant commerce  
 
@@ -34,6 +33,8 @@ I enjoy projects where theory meets production: workflows, internal tools, and a
 **[Clicker](https://github.com/Girma35/clicker)** – a user-driven, AI-enhanced Chrome extension for ethical web scraping, featuring Gemini AI-powered element detection, pattern recognition, table scraping, infinite scroll support, and workflow recording, with live previews and export options in JSON/CSV  
 
 **[PitchCraft](https://github.com/Girma35/pitchcraft)** – an AI-powered outreach tool that scrapes LinkedIn company profiles, stores raw data in Supabase, and generates personalized emails with optional AI analysis  
+
+**[Better_cursor](https://github.com/Girma35/Better_cursor)** – an AI-assisted coding environment exploring better feedback loops between editors and agents
 
 **[Sora free watermark remover](https://github.com/Girma35/sora2-free-watermark-remover)** – A specialized extraction framework engineered to detect and eliminate embedded watermarks from OpenAI's Sora 2 AI-generated video content. Utilizing frequency domain analysis and pattern recognition, this tool achieves clinical removal without degrading visual fidelity.
 
