@@ -23,7 +23,10 @@ I enjoy projects where theory meets production: workflows, internal tools, and a
 
 ---
 
-### Current Projects
+### Current Projects : 
+
+**[Focusy](https://github.com/Girma35/Focusy)** - A commitment-based focus app that locks planning sessions, blocks distractions, and guides users through a structured deep-work routine.
+
 **[Luma](https://github.com/Girma35/luma)** -A RAG-powered agent using LangGraph, FastAPI, and AWS Bedrock (Llama 3.2).
 
 **[OrderFlow](https://github.com/Girma35/OrderFlow)** – an event-driven order orchestration engine for multi-tenant commerce  
